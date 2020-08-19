@@ -7,5 +7,5 @@ Author:
 * Sonia Pujol, Ph.D, Director of 3D Slicer Training & Education, Assistant Professor of Radiology, Brigham and Women's Hospital, Harvard Medical School
 
 Materials:
-* Software: [3D Slicer version 4.11](https://download.slicer.org/)
+* Software: [3D Slicer version 4.11 nighly build (Slicer 5.0 pre-release version)](https://download.slicer.org/)
 
