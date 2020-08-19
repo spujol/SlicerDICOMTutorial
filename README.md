@@ -1,6 +1,6 @@
 # SlicerDICOMTutorial
 
-The  <a href="https://spujol.github.io/3DSlicerQuickStartGuide/Slicer5_QuickStartGuide_SoniaPujol.pdf" target="_blank"> Slicer DICOM tutorial </a>  provides an introduction to the DICOM standard and shows how to load and visualize DICOM datasets in 3D Slicer version 5.0. 
+The  <a href="https://spujol.github.io/SlicerDICOMTutorial/3DSlicer_DICOMTutorial_SoniaPujol.pdf" target="_blank"> Slicer DICOM tutorial </a>  provides an introduction to the DICOM standard and shows how to load and visualize DICOM datasets in 3D Slicer version 5.0. 
 
 
 Author:
