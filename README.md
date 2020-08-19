@@ -8,4 +8,5 @@ Author:
 
 Materials:
 * Software: [3D Slicer version 4.11 nighly build (Slicer 5.0 pre-release version)](https://download.slicer.org/)
+* Tutorial Dataset: [3D Slicer DICOM Tutorial Data](https://www.dropbox.com/s/mgtln4haudmbuej/SlicerDICOMTutorialData.zip?dl=1) 
 
